@@ -1,7 +1,6 @@
 ## 👨‍💻 Full Stack Developer
 
-I am a motivated Full Stack Developer who enjoys building complete applications from frontend to backend. I focus on writing clean, efficient code and continuously improving my skills.
-
+I am a motivated Full Stack Developer who enjoys building complete applications from frontend to backend.
 ## 🛠️ Tech Stack
 - Frontend: React, Angular  
 - Backend: Java, Spring  
