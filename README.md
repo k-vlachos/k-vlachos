@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @Vlachos2001
-- 👀 I’m interested in learning code
-- 🌱 I’m currently studying  at a university
-- 💞️ I’m looking to collaborate on anything
-- 📫 Reach me by email : vlachos2001@gmail.com
+## 👨‍💻 Full Stack Developer
+
+I am a motivated Full Stack Developer who enjoys building complete applications from frontend to backend. I focus on writing clean, efficient code and continuously improving my skills.
+
+## 🛠️ Tech Stack
+- Frontend: React, Angular  
+- Backend: Java, Spring  
+- Desktop: JavaFX  
+- Database: SQL  
+
+## 🌱 Mindset
+I am always open to learning new technologies, improving my development practices, and taking on new challenges.
+
+## 🤝 Collaboration
+Open to collaborating on any kind of project — from simple ideas to more complex applications.
+
+---
+
+✨ Always learning. Always building.
 
 <!---
 Vlachos2001/Vlachos2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
